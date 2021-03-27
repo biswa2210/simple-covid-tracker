@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 ## SAMPLE IMAGE OF THIS APPLICATION
 ![Test Image 1](SamplePicture.PNG)
 ## SCREENSHOT OF THIS APPLICATION
-<img src="Screenshot.png" width="550" height="900">
+<img src="Screenshot.png" width="500" height="900">
