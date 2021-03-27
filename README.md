@@ -16,3 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 # SAMPLE IMAGES OF THIS APPLICATION
 ![Test Image 1](SamplePicture.PNG)
+![Test Image 1](Screenshot.png)
