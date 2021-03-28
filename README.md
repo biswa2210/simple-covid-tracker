@@ -16,10 +16,8 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 ## SAMPLE IMAGE OF THIS APPLICATION AND SCREENSHOT OF THIS APPLICATION
 <table">
-  <tr>
     <td><img src="Screenshot.png" width="450" height="800"></td>
     <td>  <img src="SamplePicture.PNG" width="500" height="800"></td>
-  </tr>
  </table>
 
 
