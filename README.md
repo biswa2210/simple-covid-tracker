@@ -17,7 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](Screenshot.png)  |  ![](SamplePicture.PNG)
-| | | |
 
 
 
