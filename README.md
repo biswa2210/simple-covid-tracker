@@ -1,6 +1,6 @@
 # corona_app
 
-A new Flutter application, created by Biswarup Bhattacharjee. 
+A new Flutter application, created by Biswarup Bhattacharjee.
 
 ## Getting Started
 
