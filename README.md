@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-<img src="Screenshot.png" width="50%">  |  ![](SamplePicture.PNG)
+<img src="Screenshot.png" width="50%">  |  <img src="SamplePicture.PNG" width="100%>
 
 
 
