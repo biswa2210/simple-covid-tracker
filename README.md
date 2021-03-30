@@ -6,6 +6,8 @@
 It is a simple flutter application. When we open this we can see no. of covid cases, suspected cases, confirmed cases, deaths, recovered cases throughout the world. The result will be updated till that point of time when we open this.
 ## Use
 For using this we have to just install an app called Covid Updates which requires 32.45MB space. Then we have to just click on th icon and it will work. 
+## Importance
+In the present situation we always have to be alert from Covid-19. So, it is a very simple way to be always updated about covid cases in world. In just few seconds exact numbers of covid related cases will be on our android phone's screen. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
