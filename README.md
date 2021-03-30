@@ -2,7 +2,8 @@
 ## This new Flutter application is created by Biswarup Bhattacharjee, student of BTECH, of University of Enjineering and Management, Kolkata.
 ## Email Id: bbiswa471@gmail.com. 
 ## Contact No: 916290272740. 
-
+## About 
+It is a simple flutter application. When we open this we can see no. of covid cases, suspected cases, confirmed cases, deaths, recovered cases throughout the world. The result will be updated till that point of time when we open this.
 
 ## Getting Started
 
