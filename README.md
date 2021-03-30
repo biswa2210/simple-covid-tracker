@@ -4,6 +4,7 @@
 ## Contact No: 916290272740. 
 ## About 
 It is a simple flutter application. When we open this we can see no. of covid cases, suspected cases, confirmed cases, deaths, recovered cases throughout the world. The result will be updated till that point of time when we open this.
+## APP DOWNLOAD LINK : 
 ## Purpose
 This is made for to make people alert of covid cases easily.
 ## Use
