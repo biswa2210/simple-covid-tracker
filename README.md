@@ -1,6 +1,6 @@
-# corona_app
+# SIMPLE-COVID-TRACKER
+## This new Flutter application is created by Biswarup Bhattacharjee, student of BTECH, of University of Enjineering and Management, Kolkata. Email Id: bbiswa471@gmail.com. Contact No: 916290272740. 
 
-A new Flutter application, created by Biswarup Bhattacharjee.
 
 ## Getting Started
 
