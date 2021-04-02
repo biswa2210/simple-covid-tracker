@@ -1,10 +1,10 @@
 # SIMPLE-COVID-TRACKER
 ## This new Flutter application is created by Biswarup Bhattacharjee, student of BTECH, of University of Enjineering and Management, Kolkata.
 ## Email Id: bbiswa471@gmail.com. 
-## Contact No: 916290272740. 
+## Contact No: 6290272740(INDIA)
 ## About 
 It is a simple flutter application. When we open this we can see no. of covid cases, suspected cases, confirmed cases, deaths, recovered cases throughout the world. The result will be updated till that point of time when we open this.
-## APP DOWNLOAD LINK : 
+## APP DOWNLOAD LINK : <a href="Covid_Updates_base.apk" download>click here to download</a>
 ## Purpose
 This is made for to make people alert of covid cases easily.
 ## Use
