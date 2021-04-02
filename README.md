@@ -4,7 +4,7 @@
 ## Contact No: 6290272740(INDIA)
 ## About 
 It is a simple flutter application. When we open this we can see no. of covid cases, suspected cases, confirmed cases, deaths, recovered cases throughout the world. The result will be updated till that point of time when we open this.
-## APP DOWNLOAD LINK : <a href="Covid_Updates_base.apk" download>click here to download</a>
+## APP DOWNLOAD LINK : <a href="https://github.com/biswa2210/simple-covid-tracker/raw/master/Covid_Updates_base.apk" download>Click here to download</a>
 ## Purpose
 This is made for to make people alert of covid cases easily.
 ## Use
