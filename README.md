@@ -25,7 +25,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 ## SCREENSHOTS OF APPLICATION
 <div align="center">
- <a href="SamplePicture.png"><img src="SamplePicture.png" width="200" height= "500"></a> <a href="Screenshot.png"><img src="Screenshot.png" width="200" height= "500"></a>
+ <a href="SamplePicture.png"><img src="SamplePicture.png" width="260" height= "500"></a> <a href="Screenshot.png"><img src="Screenshot.png" width="260" height= "500"></a>
  </div>
 
 
