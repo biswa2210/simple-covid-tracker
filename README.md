@@ -23,8 +23,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# <u>SCREENSHOTS OF APPLICATION</u>
- <img src="SamplePicture.png"> &nbsp; &nbsp; &nbsp; <img src="Screenshot.png"> 
+## SCREENSHOTS OF APPLICATION
+<div align="center">
+ <a href="SamplePicture.png"><img src="SamplePicture.png" width="200" height= "500"></a> <a href="Screenshot.png"><img src="Screenshot.png" width="200" height= "500"></a>
+ </div>
+
 
 
 
