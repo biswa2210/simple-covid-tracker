@@ -40,7 +40,28 @@ The best way to prevent and slow down transmission is to be well informed about 
 
 The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow). <br>In the present situation we always have to be alert from Covid-19. So, it is a very simple way to be always updated about covid cases in world. In just few seconds exact numbers of covid related cases will be on our android phone's screen. 
 ## Folder Structure :point_down:
-
+```bash
+simple-covid-tracker
+     ├── .vscode
+     ├── android
+     |     ├── app
+     |     |    ├── src
+     |     |    |    ├── debug
+     |     |    |    |     └── AndroidManifest.xml
+     |     |    |    ├── main
+     |     |    |    |     ├── kotlin/com/example/corona.app
+     |     |    |    |     |            └── MainActivity.kt
+     |     |    |    |     ├── res
+     |     |    |    |     |    ├── drawable
+     |     |    |    |     |    ├── mipmap-hdpi
+     |     |    |    |     |    ├── mipmap-mdpi
+     |     |    |    |     |    ├── mipmap-xhpi
+     |     |    |    |     |    ├── mipmap-xxhpi
+     |     |    |    |     |    ├── mipmap-xxxhpi
+     |     |    |    |     |    ├── values.night
+     |     |    |    |     |    └── values
+     |     |    |    |     ├──     
+```
 ## Making :point_down:
 
 ## Getting Started
