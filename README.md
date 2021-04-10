@@ -60,8 +60,50 @@ simple-covid-tracker
      |     |    |    |     |    ├── mipmap-xxxhpi
      |     |    |    |     |    ├── values.night
      |     |    |    |     |    └── values
-     |     |    |    |     ├──     
+     |     |    |    |     └── AndroidManifest.xml
+     |     |    |    └── profile
+     |     |    |          └── AndroidManifest.xml
+     |     |    └── build.gradle
+     |     ├── gradle/wrapper
+     |     |        └── gradle/wrapper.properties
+     |     ├── gradle.properties
+     |     ├── settings.gradle
+     |     └── settings-arr.gradle
+     ├── assets
+     |     ├── 2.0x
+     |     ├── 3.0x
+     |     └── fonts
+     ├── ios
+     |    ├── Flutter
+     |    |      ├── AppFrameWorkInfo.plist
+     |    |      ├── Debug.xconfig
+     |    |      └── Release.xconfig
+     |    ├── Runner.xcodeproj
+     |    |        ├── project.xcworkspace
+     |    |        ├── xcshareddata/xschemes
+     |    |        └── project.pbxproj
+     |    ├── Runner.xcworkspace
+     |    |        ├── xcshareddata
+     |    |        └── contents.scworkspacedata
+     |    └── Runner
+     |             ├── Assets.xcascets
+     |             └── Base.Iproj
+     ├── lib
+     |    ├── app
+     |    |    ├── repositories
+     |    |    ├── services
+     |    |    └── us
+     |    └── main.dart
+     ├── rest-api
+     |    └── n cov_2019_aoi.http
+     ├── test
+     |    └── widget_test.dart
+     ├── .metadata
+     ├── covid_updates_base.apk
+     ├── pubspec.lok
+     └── pubspec.yaml
 ```
+     
 ## Making :point_down:
 
 ## Getting Started
