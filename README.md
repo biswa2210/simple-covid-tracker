@@ -42,66 +42,35 @@ The COVID-19 virus spreads primarily through droplets of saliva or discharge fro
 ## Folder Structure :point_down:
 ```bash
 simple-covid-tracker
-     ├── .vscode
-     ├── android
-     |     ├── app
-     |     |    ├── src
-     |     |    |    ├── debug
-     |     |    |    |     └── AndroidManifest.xml
-     |     |    |    ├── main
-     |     |    |    |     ├── kotlin/com/example/corona.app
-     |     |    |    |     |            └── MainActivity.kt
-     |     |    |    |     ├── res
-     |     |    |    |     |    ├── drawable
-     |     |    |    |     |    ├── mipmap-hdpi
-     |     |    |    |     |    ├── mipmap-mdpi
-     |     |    |    |     |    ├── mipmap-xhpi
-     |     |    |    |     |    ├── mipmap-xxhpi
-     |     |    |    |     |    ├── mipmap-xxxhpi
-     |     |    |    |     |    ├── values.night
-     |     |    |    |     |    └── values
-     |     |    |    |     └── AndroidManifest.xml
-     |     |    |    └── profile
-     |     |    |          └── AndroidManifest.xml
-     |     |    └── build.gradle
-     |     ├── gradle/wrapper
-     |     |        └── gradle/wrapper.properties
-     |     ├── gradle.properties
-     |     ├── settings.gradle
-     |     └── settings-arr.gradle
-     ├── assets
-     |     ├── 2.0x
-     |     ├── 3.0x
-     |     └── fonts
-     ├── ios
-     |    ├── Flutter
-     |    |      ├── AppFrameWorkInfo.plist
-     |    |      ├── Debug.xconfig
-     |    |      └── Release.xconfig
-     |    ├── Runner.xcodeproj
-     |    |        ├── project.xcworkspace
-     |    |        ├── xcshareddata/xschemes
-     |    |        └── project.pbxproj
-     |    ├── Runner.xcworkspace
-     |    |        ├── xcshareddata
-     |    |        └── contents.scworkspacedata
-     |    └── Runner
-     |             ├── Assets.xcascets
-     |             └── Base.Iproj
-     ├── lib
-     |    ├── app
-     |    |    ├── repositories
-     |    |    ├── services
-     |    |    └── us
-     |    └── main.dart
-     ├── rest-api
-     |    └── n cov_2019_aoi.http
-     ├── test
-     |    └── widget_test.dart
-     ├── .metadata
-     ├── covid_updates_base.apk
-     ├── pubspec.lok
-     └── pubspec.yaml
+       ├── assets
+       |     ├── 2.0x
+       |     ├── 3.0x
+       |     ├── fonts
+       |     |    └── MBW.otf
+       |     ├── count.png
+       |     ├── death.png
+       |     ├── fever.png
+       |     ├── patient.png
+       |     └── suspect.png
+       ├── lib
+       |    ├── app
+       |    |    ├── repositries
+       |    |    |       ├── data_repositries.dart
+       |    |    |       └── endpointsdatas.dart
+       |    |    ├── services
+       |    |    |       ├── .gitignore
+       |    |    |       ├── api.dart
+       |    |    |       ├── app_services.dart
+       |    |    |       ├── data_cache_service.dart
+       |    |    |       └── endpointdata.dart
+       |    |    └── ui
+       |    |         ├── dashboard.dart
+       |    |         ├── endpoint.dart
+       |    |         ├── last_updated_date.dart
+       |    |         └── show_alert_dialog.dart
+       |    └── main.dart
+       └── rest_api
+              └── ncov_2019_api.http
 ```
      
 ## Making :point_down:
