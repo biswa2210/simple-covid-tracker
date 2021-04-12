@@ -74,7 +74,7 @@ simple-covid-tracker
 ```
      
 ## Making :point_down:
-
+I have fetched the data from ncov_2019_api.http for app. I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) in front end and backend.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
