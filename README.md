@@ -90,7 +90,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Screenshots :point_down: 
 <div align="center">
  <a href="SamplePicture.png"><img src="SamplePicture.png" width="260" height= "500"></a> <a href="Screenshot.png"><img src="Screenshot.png" width="260" height= "500"></a>
- </div>
+</div>
 
 
 
