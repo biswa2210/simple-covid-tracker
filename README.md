@@ -22,6 +22,15 @@ Several testing methods have been developed to diagnose the disease. The standar
 Preventive measures include physical or social distancing, quarantining, ventilation of indoor spaces, covering coughs and sneezes, hand washing, and keeping unwashed hands away from the face. The use of face masks or coverings has been recommended in public settings to minimise the risk of transmissions. Several vaccines have been developed and several countries have initiated mass vaccination campaigns.
 <br>
 It is a simple flutter application. When we open this we can see no. of covid cases, suspected cases, confirmed cases, deaths, recovered cases throughout the world. The result will be updated till that point of time when we open this.
+## Info Table Example :point_down:
+| Types of Cases  |      Data      |
+| -------------   | -------------  |
+| Cases           | 136,500,769    |
+| Suspected Cases | 0              |
+| Confirmed Cases | 136,500,769    |
+| Deaths          | 2,944,771      |
+| Recovered       | 77,714,143     |
+
 ## APP DOWNLOAD LINK : :point_right: <a href="https://github.com/biswa2210/simple-covid-tracker/raw/master/Covid_Updates_base.apk" download>Click here to download</a> 
 ## Purpose :point_down:
 Coronavirus disease 2019 (COVID-19) is a contagious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The first case was identified in Wuhan, China, in December 2019. The disease has since spread worldwide, leading to an ongoing pandemic.
