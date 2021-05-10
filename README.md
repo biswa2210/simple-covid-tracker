@@ -98,7 +98,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 ## Screenshots :point_down: 
 <div align="center">
- <a href="SamplePicture.png"><img src="SamplePicture.png" width="370" height= "500"></a> <a href="Screenshot.png"><img src="Screenshot.png" width="370" height= "500"></a>
+ <a href="SamplePicture.png"><img src="SamplePicture.png" width="400" height= "700"></a> <a href="Screenshot.png"><img src="Screenshot.png" width="400" height= "700"></a>
 </div>
 
 
