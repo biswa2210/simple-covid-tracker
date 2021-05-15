@@ -3,7 +3,11 @@ import 'package:corona_app/app/services/endpointdata.dart';
 import 'package:flutter/cupertino.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 class APIService {
   APIService(this.api);
   final API api;
