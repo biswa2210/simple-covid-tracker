@@ -7,7 +7,11 @@ enum Endpoint {
   deaths,
   recovered,
 }
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 class API {
   API({@required this.apiKey});
   final String apiKey;
