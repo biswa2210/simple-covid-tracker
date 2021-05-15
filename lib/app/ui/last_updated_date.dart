@@ -3,7 +3,11 @@ import 'package:intl/intl.dart';
 class LastUpdatedDateFormatter {
   LastUpdatedDateFormatter({@required this.lastUpdated});
   final DateTime lastUpdated;
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
   String lastUpdatedStatusText() {
     if (lastUpdated != null) {
       final formatter = DateFormat.yMd().add_Hms();
