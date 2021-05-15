@@ -1,7 +1,11 @@
 import 'package:corona_app/app/services/api.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-class EndpointCardData{
+/*CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
+  class EndpointCardData{
   EndpointCardData(this.title,this.assetName,this.color);
   final String title;
   final String assetName;
