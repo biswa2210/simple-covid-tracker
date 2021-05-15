@@ -1,6 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.corona_app">
     <uses-permission android:name="android.permission.INTERNET"/>
+    <!--
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+-->
    <application
         android:label="Covid Updates"
         android:icon="@mipmap/ic_launcher">
