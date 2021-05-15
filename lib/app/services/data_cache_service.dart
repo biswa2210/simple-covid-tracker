@@ -7,7 +7,11 @@ import 'package:corona_app/app/ui/endpoint_card.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 class DataCacheService {
   DataCacheService({@required this.sharedPreferences});
   final SharedPreferences sharedPreferences;
