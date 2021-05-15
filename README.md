@@ -33,6 +33,7 @@ Preventive measures include physical or social distancing, quarantining, ventila
  - Confirmed Cases<br>
  - Deaths<br>
  - Recovered<br>
+ </details>
 
 ## Info Table Example :mask: :point_down: 
 
