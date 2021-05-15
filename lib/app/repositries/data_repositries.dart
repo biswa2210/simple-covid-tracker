@@ -7,6 +7,11 @@ import 'package:corona_app/app/services/app_services.dart';
 import 'package:flutter/foundation.dart';
 import 'package:corona_app/app/services/api.dart';
 import 'package:http/http.dart';
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 class DataRepository {
   DataRepository({@required this.apiService, @required this.dataCacheService});
   final APIService apiService;
