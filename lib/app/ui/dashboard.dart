@@ -8,7 +8,11 @@ import 'package:corona_app/app/ui/last_updated_date.dart';
 import 'package:corona_app/app/ui/show_alert_dialog.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 class Dashboard extends StatefulWidget {
   @override
   _DashboardState createState() => _DashboardState();
