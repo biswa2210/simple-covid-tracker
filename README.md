@@ -30,6 +30,11 @@ Preventive measures include physical or social distancing, quarantining, ventila
 <br>
 **It is a simple flutter application. When we open this we can see no. of covid cases, suspected cases, confirmed cases, deaths, recovered cases throughout the world. The result will be updated till that point of time when we open this.**
 </div>
+
+## SIMPLE COVID TRACKER DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=4xPf4huWymw&list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH&index=10">Click here to watch</a>
+
+## FLUTTER PLAYLIST: :point_right: <a href="https://www.youtube.com/playlist?list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH">Click here to watch</a>
+
 <details>
        <summary>"To read the types of cases click here"</summary>
  - Cases<br>
